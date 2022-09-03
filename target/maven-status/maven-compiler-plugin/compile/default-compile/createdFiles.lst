@@ -1,0 +1,5 @@
+com\TestVagrant\pageObjects\ImdbHomePage.class
+com\TestVagrant\pageObjects\WikipediaHomePage.class
+com\TestVagrant\utility\Utility.class
+com\TestVagrant\pageObjects\WikipediaMovieDetailPage.class
+com\TestVagrant\pageObjects\ImdbMovieDetailPage.class
